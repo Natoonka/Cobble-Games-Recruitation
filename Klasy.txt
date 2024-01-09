@@ -1,0 +1,7 @@
+Klasy
+---
+
+GameplayManager - odpowiada za ogólną kontrolę gry
+Character - klasa podpięta pod obiekty postaci, zawiera metody do poruszania postaci
+CharacterSO - scriptable object postaci, posiadające ich współczynniki
+
